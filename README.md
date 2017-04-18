@@ -5,8 +5,8 @@ A simple Java password generator.
 
 ## Demo
 
-
-> infirm/Franz0tassel]Rx)Beeton2
+```
+  infirm/Franz0tassel]Rx)Beeton2
   Sweet<tatami-wagged[lagZMR3due
   corr5Tony(pee_smoky/TWX/sly}BL
   whey)dumb(GnuPG}jib]curium=dar
@@ -183,6 +183,7 @@ A simple Java password generator.
   cobalt<equity.Okla5yuppie>Rusk
   apiary[comic}Taoism7Donne.Asam
   signor>mood'Cross;rough,care%p
+```
 
 
 ## Contact
